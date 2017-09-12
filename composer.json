@@ -1,0 +1,17 @@
+{
+    "name": "aliyun/log_php_sdk",
+    "description": "this is a aliyun log sdk package",
+    "require": {
+        "php": ">=5.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "license": "Simplified BSD License",
+    "authors": [
+        {
+            "name": "handongyu",
+            "email": "873379619@qq.com"
+        }
+    ]
+}
